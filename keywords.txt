@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map 
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Wisol			KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+dumpInfo		KEYWORD2
+wakeup			KEYWORD2
+getTemp			KEYWORD2
+getID			KEYWORD2
+getPAC			KEYWORD2
+send			KEYWORD2
+setPowerMode	KEYWORD2
+setOutputPower	KEYWORD2
+enableSoftwareResetMode	KEYWORD2
+enableSleepMode	KEYWORD2
+enableDeepSleepMode	KEYWORD2
+cmd				KEYWORD2
+read			KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+SOFTWARE_RESET			LITTERAL1
+SLEEP					LITTERAL1
+DEEP_SLEEP				LITTERAL1
